@@ -6,5 +6,8 @@ This tool utilizes the [Resistance Genome Identifier (RGI)](https://card.mcmaste
 - [2nd B anthracis transcriptome](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR028685&display=metadata)
 - CARD is designed to take one input, but Rockhopper requires two inputs to be functional
 
-2.`Search for transcriptomes on the Sequence Read Archive`
+2. `Use this as a positive control for CARD`
+- [Antibiotic Resistant E. coli] (https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR2362898&display=metadata)
+
+3.`Search for transcriptomes on the Sequence Read Archive`
 - [Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra) 
