@@ -3,7 +3,7 @@ This tool utilizes the [Resistance Genome Identifier (RGI)](https://card.mcmaste
 
 1. `Test transciptomes for CARD (click FASTA/FASTQ download)`
 - [Antibiotic Resistant E. coli](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR2362898&display=metadata)
-- [Reference Transcriptome](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR22250267&display=download)
+- [Reference Transcriptome E. coli](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR22250267&display=download)
 - CARD is designed to take one input, but Rockhopper requires two inputs to be functional
 
 2.`Other transcriptomes for testing`
