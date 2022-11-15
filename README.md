@@ -14,5 +14,5 @@ This tool utilizes the [Resistance Genome Identifier (RGI)](https://card.mcmaste
 - [Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra) 
 
 4. `Convert Fastq to Fasta`
-5. [This site explains how to do it](https://bioinformaticsworkbook.org/dataWrangling/fastaq-manipulations/converting-fastq-format-to-fasta.html#gsc.tab=0)
-6. Or use this code: `sed -n '1~4s/^@/>/p;2~4p' INFILE.fastq > OUTFILE.fasta`
+- [This site explains how to do it](https://bioinformaticsworkbook.org/dataWrangling/fastaq-manipulations/converting-fastq-format-to-fasta.html#gsc.tab=0)
+- Or use this code: `sed -n '1~4s/^@/>/p;2~4p' INFILE.fastq > OUTFILE.fasta`
