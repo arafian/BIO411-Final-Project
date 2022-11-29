@@ -1,0 +1,54 @@
+
+Aligning sequencing reads from file:	SRR22250267.fastq
+Total reads:            	6434
+Successfully aligned reads:	3726	58%	(Escherichia coli E24377A chromosome)
+	Aligning (sense) to protein-coding genes:	48%
+	Aligning (antisense) to protein-coding genes:	45%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	0%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	0%
+	Aligning (antisense) to miscellaneous RNAs:	0%
+	Aligning to unannotated regions:        	7%
+
+Aligning sequencing reads from file:	SRR2362898.fastq
+Total reads:            	13466
+Successfully aligned reads:	7304	54%	(Escherichia coli E24377A chromosome)
+	Aligning (sense) to protein-coding genes:	43%
+	Aligning (antisense) to protein-coding genes:	42%
+	Aligning (sense) to ribosomal RNAs:	0%
+	Aligning (antisense) to ribosomal RNAs:	0%
+	Aligning (sense) to transfer RNAs:	0%
+	Aligning (antisense) to transfer RNAs:	0%
+	Aligning (sense) to miscellaneous RNAs:	0%
+	Aligning (antisense) to miscellaneous RNAs:	0%
+	Aligning to unannotated regions:        	15%
+
+Analyzing transcripts...
+
+************************************************************
+Escherichia coli E24377A chromosome
+************************************************************
+
+Computing transcript boundaries...
+	Number of 5'UTRs:			16
+	Number of 3'UTRs:			18
+	Number of predicted RNAs:			638
+	Number of predicted RNAs (not antisense):		127
+	Number of predicted RNAs (antisense):		511
+
+Computing differential gene expression...
+	Number of differentially expressed protein coding genes:	271
+
+Computing likely operons...
+	Number of gene-pairs predicted to be part of the same operon:	1670
+	Number of predicted multi-gene operons:		905
+
+
+Summary of results written to file:	Rockhopper_Results/summary.txt
+Expression of transcripts written to file:	Rockhopper_Results/NC_009801_transcripts.txt
+Operons written to file:		Rockhopper_Results/NC_009801_operons.txt
+
+FINISHED.
+
