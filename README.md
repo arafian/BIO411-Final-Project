@@ -9,6 +9,7 @@ This tool utilizes the [Resistance Genome Identifier (RGI)](https://card.mcmaste
 2.`Other transcriptomes for testing`
 - [1st B. anthracis transcriptome](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR028684&display=metadata)
 - [2nd B anthracis transcriptome](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR028685&display=metadata)
+- https://zenodo.org/record/3736457#.Y4VlY-zMKEs
 
 3.`Search for transcriptomes on the Sequence Read Archive`
 - [Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra) 
@@ -16,3 +17,4 @@ This tool utilizes the [Resistance Genome Identifier (RGI)](https://card.mcmaste
 4. `Convert Fastq to Fasta`
 - [This site explains how to do it](https://bioinformaticsworkbook.org/dataWrangling/fastaq-manipulations/converting-fastq-format-to-fasta.html#gsc.tab=0)
 - Or use this code: `sed -n '1~4s/^@/>/p;2~4p' INFILE.fastq > OUTFILE.fasta`
+- https://support.illumina.com/help/BaseSpace_OLH_009008/Content/Source/Informatics/BS/QualityScoreEncoding_swBS.htm
